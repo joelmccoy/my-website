@@ -1,0 +1,44 @@
+baseURL = 'https://joelmccoy.dev/'
+languageCode = 'en-us'
+title = "Howdy y'all 👋, Joel here."
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  # Subtitle for home
+  homeSubtitle = "💎 Cloud 💎 DevOps 💎 Kubernetes 💎 IAM 💎"
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Metadata mostly used in document's head
+  description = "Joel McCoy's personal website"
+  keywords = "homepage, devops, software, cloud, kubernetes, iam"
+
+  [params.logo]
+    logoText = "joelmccoy.dev"
+    logoHomeLink = "/"
+  
+  [params.portrait]
+    path = "images/headshot.jpeg"
+    alt = "Portrait"
+    maxWidth = "150px"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/joelmccoy"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/joel-mccoy/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:me@joelmccoy.dev"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
