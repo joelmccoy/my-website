@@ -1,6 +1,6 @@
 # Me
 
-Howdy y'all , I'm Joel! Im a Cloud Infra Engineer at [Defense Unicorns](https://www.defenseunicorns.com/). Passinate about FOSS, Cloud, Kubernetes, and DevOps practices.
+Howdy y'all, I'm Joel! I'm a Cloud Infrastructure Engineer at [Defense Unicorns](https://www.defenseunicorns.com/). Passionate about FOSS, Cloud, Kubernetes, and DevOps practices.
 
 ## The worky worky thingz
 
